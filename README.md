@@ -4,7 +4,7 @@
 
 
 Hello! 
-I'm Mamun, a "Jack of All Trades, Master of None" from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Currently, I’m on a journey to master Python, and I’m excited to share what I learn through tutorials on my YouTube channel: [PyGemsBD](https://youtube.com/pygemsbd).
+I'm Mamun, a "Jack of All Trades, Master of None" from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Currently, I’m on a journey to master Python, and I’m excited to share what I learn through tutorials on my YouTube channel: [PyGemsBD](https://youtube.com/@pygemsbd).
 
 I believe that the best teacher is within you; teaching others is the best way to reinforce your own knowledge. Join me as I explore the world of Python and share valuable insights along the way!
 
